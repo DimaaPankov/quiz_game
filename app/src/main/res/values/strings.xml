@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">quiz</string>
+
+    <string name="something_answer1">something answer 1</string>
+    <string name="something_answer2">something right answer 2</string>
+    <string name="something_answer3">something answer 3</string>
+    <string name="something_answer4">something answer 4</string>
+    <string name="something_answer5">something answer 5</string>
+    <string name="something_answer6">something right answer 6</string>
+    <string name="something_answer7">something answer 7</string>
+    <string name="something_answer8">something right answer 8</string>
+    <string name="something_answer9">something answer 9</string>
+    <string name="something_answer10">something right answer 10</string>
+    <string name="something_answer11">something answer 11</string>
+    <string name="something_answer12">something answer 12</string>
+    <string name="something_answer13">something answer 13</string>
+    <string name="something_answer14">something answer 14</string>
+    <string name="something_answer15">something right answer 15</string>
+    <string name="something_answer16">something right answer 16</string>
+    <string name="something_answer17">something answer 17</string>
+    <string name="something_answer18">something answer 18</string>
+    <string name="something_answer19">something answer 19</string>
+    <string name="something_answer20">something answer 20</string>
+    <string name="something_answer21">something right answer 21</string>
+    <string name="something_answer22">something answer 22</string>
+    <string name="something_answer23">something right answer 23</string>
+    <string name="something_answer24">something answer 24</string>
+    <string name="something_answer25">something answer 25</string>
+    <string name="something_answer26">something right answer 26</string>
+    <string name="something_answer27">something answer 27</string>
+    <string name="something_answer28">something answer 28</string>
+    <string name="something_answer29">something answer 29</string>
+    <string name="something_answer30">something right answer 30</string>
+
+
+    <string name="something_qestion1">something qestion 1</string>
+    <string name="something_qestion2">something qestion 2</string>
+    <string name="something_qestion3">something qestion 3</string>
+    <string name="something_qestion4">something qestion 4</string>
+    <string name="something_qestion5">something qestion 5</string>
+    <string name="something_qestion6">something qestion 6</string>
+    <string name="something_qestion7">something qestion 7</string>
+    <string name="something_qestion8">something qestion 8</string>
+    <string name="something_qestion9">something qestion 9</string>
+    <string name="something_qestion10">something qestion 10</string>
+</resources>
